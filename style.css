@@ -154,6 +154,7 @@ form {
   grid-area: active;
   background: var(--clr-light);
   color: var(--clr-dark);
+  
 }
 
 .todo-header {
